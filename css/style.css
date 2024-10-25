@@ -1,8 +1,6 @@
 @import url('https//fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
-
 *{
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -40,17 +38,14 @@ form .linhas{
 }
 
 .colunas .titulo{
-
     font-size: 20px;
     color: #333;
     text-transform: uppercase;
     margin-bottom: 5px;
-
 }
 
 .colunas .entrada-caixa{
     margin: 10px 0;
-
 }
 .entrada-caixa span{
 
@@ -84,19 +79,14 @@ form .linhas{
 }
 
 .flex .entrada-caixa{
-
     margin-top: 5px;
 }
 
-
-
 .escolha-opcao {
-
     display: flex;
     gap: 5px;
 }
 .entrada-caixa .btn-pix{
-
     width: 50%;
     height: 38px;
     padding: 10px;
@@ -111,7 +101,6 @@ form .linhas{
 }
 
 form .btn{
-
     width: 100%;
     padding: 12px;
     background: #8175d3;
@@ -123,20 +112,21 @@ form .btn{
     cursor: pointer;
     transition: .5s;
     margin: 10px 0;
-
-
 }
 .entrada-caixa .btn-pix:hover{
-
     background: #6a5acd;
-
-
 }
 
 form .btn:hover{
     background: #6a5acd;
 }
 .formulario .titulo{
-
+    font-size: 20px;
     margin: 20px 0;
+}
+#instructions{
+
+    margin: 10px 0;
+    font-weight: bold;
+
 }
