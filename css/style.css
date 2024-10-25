@@ -122,6 +122,7 @@ form .btn{
     color: #fff;
     cursor: pointer;
     transition: .5s;
+    margin: 10px 0;
 
 
 }
@@ -134,4 +135,8 @@ form .btn{
 
 form .btn:hover{
     background: #6a5acd;
+}
+.formulario .titulo{
+
+    margin: 20px 0;
 }
