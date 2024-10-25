@@ -1,1 +1,1 @@
-## Tela pagamento do Projeto Totem de Lanchonete
+## Tela de Pagamento, pode ser utilizada em vários projetos !!
